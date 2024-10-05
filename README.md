@@ -45,6 +45,4 @@ Türkçe çevirilerde herhangi bir eksiklik veya hata ile karşılaşırsanız, 
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
-```
 
-Bu versiyon, örnek site linkini içermektedir.
